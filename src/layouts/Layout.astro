@@ -1,0 +1,54 @@
+---
+const { title } = Astro.props;
+
+import Navbar from "../components/Navbar.astro";
+import Navbarbottom from "../components/Navbar.svelte";
+
+
+const description = "Kerala Startup Mission is the central agency of the Government of Kerala for entrepreneurship development and incubation activities in Kerala, India.";
+const url = "https://startupmission.kerala.gov.in/";
+
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+    <title> Kerala Startup Mission | KERA</title>
+    <link href="/assets/css/themify-icons.css" rel="stylesheet">
+    <link href="/assets/css/flaticon_aidus.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/animate.css" rel="stylesheet">
+    <link href="/assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="/assets/css/owl.theme.css" rel="stylesheet">
+    <link href="/assets/css/slick.css" rel="stylesheet">
+    <link href="/assets/css/slick-theme.css" rel="stylesheet">
+    <link href="/assets/css/swiper.min.css" rel="stylesheet">
+    <link href="/assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="/assets/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="/assets/css/odometer-theme-default.css" rel="stylesheet">
+    <link href="/assets/sass/style.css" rel="stylesheet">
+	<script src="https://unpkg.com/alpinejs" defer is:inline></script>
+
+</head>
+
+
+	<body>
+
+		<slot />
+
+		<script src="/assets/js/jquery.min.js" is:inline></script>
+		<script src="/assets/js/bootstrap.bundle.min.js" is:inline></script>
+		<!-- Plugins for this template -->
+		<script src="/assets/js/modernizr.custom.js" is:inline></script>
+		<script src="/assets/js/jquery.dlmenu.js" is:inline></script>
+		<script src="/assets/js/jquery-plugin-collection.js" is:inline></script>
+		<!-- Custom script for this template -->
+		<script src="/assets/js/script.js" is:inline></script>
+</body>
+
+</html>

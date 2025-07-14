@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Ameenian Incubation Startup Initiative",
+
+    "image": "/leap/Al ameen.png",
+    "image_main":"/leap/Al ameenmain.png",
+
+
+    "id": "p1",
+    "address": "Al-Ameen College, Edathala, Aluva",
+    "poc": "Dr Kala N",
+    "email": "kalariteesha@gmail.com",
+    "number": "7012921484",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+   
+    "facilities": [
+      "Co-Working Space, Rs 2000 Per Seat, WiFi Facility Available, 24x7 Access to AI Space, Registered as a Section 8 Company",
+      "IoT Lab",
+      "3D Printing Facilities",
+      "Provide HR Resources for Marketing and Socio-Economic Surveys",
+      "Lab Space for Conducting Chemical Experiments",
+      "Water Quality Analysis Lab Providing a Range of Services Related to Analyzing and Testing the Quality of Water",
+      "Access to Biotechnology Lab for Research and Experimentation",
+      "Gives Hands-On Training for Music Programming and Production",
+      "Live Sound Reinforcement",
+      "Sync Sound",
+      "Specialized Services for Recording Voiceovers for Commercials, Audiobooks, and Other Projects",
+      "Offering Comprehensive Support Focused on Content Writing"
+    ],
+
+    "images":[
+      "/leap/clg1.png",
+      "/leap/clg2.png",
+      "/leap/Al ameen2.png",
+      "/leap/clg3.png"
+
+
+    ]
+  },
+  {
+    "title": "MI Zone - Kannur",
+
+    "image": "/leap/mizone.png",
+    "image_main": "/leap/mizonemain.png",
+
+    
+    "id": "p2",
+    "address": "Mangattuparamba,Near Kannur University Campus",
+    "poc": "Subhash",
+    "email": "admin@mizone.in",
+    "number": "9846113263",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    
+    "facilities": [
+      "International standard workspace",
+      "Mentoring by domain and Industry experts",
+      "Funding Opportunities/Angel capital support",
+      "Networking and Eco Systems",
+      "Trainings and Workshops",
+      "Marketing Channels",
+      "Govt & Public Agencies Liaising",
+      "Value added services",
+      "Market connect",
+      "Fully air-conditioned Co-working Space",
+      "supporting facilities, Furniture & Fixtures",
+      "Separate Office Space  on demand",
+      "VC Room, Meeting rooms (6)  and Seminar Hall",
+      "High Speed Internet",
+      "24X7 Power back-up",
+      "Housekeeping & Maintenance",
+      "Dining and Partying space",
+      "All-round security",
+      "Parking Facilities"
+
+    ],
+    "images":[
+      "/leap/mizone1.png",
+      "/leap/mizone2.png",
+      "/leap/mizone3.png",
+      "/leap/mizone11.png",
+      "/leap/mizone5.png",
+      "/leap/mizone6.png",
+      "/leap/mizone12.png",
+      "/leap/mizone13.png"
+
+    ]
+
+  },
+  {
+    "title": "Dr. Moopen's iNEST, Wayandu",
+
+    "image": "/leap/inest.png",
+    "image_main":"/leap/inestmain.png",
+
+    "id": "p3",
+    "address": "Dr. Moopen's iNEST, Wayandu",
+    "poc": "Anjana Joseph",
+    "email": "anjana.joseph@drmoopensmc.ac.in",
+    "number": "8156898618",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    
+    "facilities": [
+     "Fully furnished office space featuring high-end computing facilities",
+     "High-speed internet",
+     "Fully air-conditioned co-working areas",
+     "Private cabins and meeting rooms",
+     "Laboratory facilities equipped for wet lab work",
+     "Specialized instruments for biomaterials research",
+     "3D Bioprinting", 
+     "Molecular Biology and Tissue Engineering.",
+     "Cabin space and coworking space",
+     "Workstations",
+     "High Speed Network",
+     "Mentorship",
+     "Cafeteria & Restaurants","24/7 Surveillance","Access to healthcare Ecosystem","Discussion rooms, Meeting Rooms & Training Halls based on availability"
+    ],
+    "images":[
+      "/leap/inest1.png",
+      "/leap/inest2.png",
+      "/leap/inest3.png"
+      
+    ]
+  },
+  {
+    "title": "ZilCubator, Manjeri",
+
+    "image": "/img/DSC05574 1 1.png",
+    "image_main":"/img/DSC05574 1 1 (1).png",
+
+    "id": "p4",
+    "address": "Zil Money HQ, Kozhikkattu Kunnu, Manjeri",
+    "poc": "Shibil C",
+    "email": "shibil@zilmoney.com",
+    "number": "7994949944",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+   
+    "facilities": [
+     "US Market Expansion",
+     "Fund of Funds",
+     "ZilCubator Investments",
+     "Business Events",
+     "Mentorship","Dining Area","24/7 Surveillance","Air conditioned workspace ",
+     "High Speed network",
+     "Gym Coffee and Snacks Suite room Applicable"
+    ],
+
+    "images":[
+
+    ]
+  },
+  {
+    "title": "Adi Shankara Institute of Engineering and Technology",
+    "image": "/img/a1.png",
+    "image_main":"/img/a2.png",
+    "id": "p5",
+    "address": "Vidya Bharathi Nagar, Mattoor, Kalady",
+    "poc": "Dr Eldose KK",
+    "email": "eldhosekk.me@adishankara.ac.in",
+    "number": "9847664564",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    "facilities": [
+     "Includes free electricity","Incubation space","water", "Wi-Fi","security."
+    ]
+  },
+  {
+    "title": "Startups Valley AJCE TBI",
+
+    "image": "/leap/ajce11.png",
+    "image_main":"/leap/ajcemain.png",
+    
+    "id": "p6",
+    "address": "Amal Jyothi College of Engineering Kanjirappally",
+    "poc": "Dr. Sherin Sam Jose",
+    "email": "sherinsamjose@amaljyothi.ac.in",
+    "number": "9496805712",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    
+    "facilities": [
+     "Office Space ",
+     "AC rooms with furniture",
+    "Telecomm facility and Internet ",
+    "Shared Resources",
+    "Conference Room",
+    "Meeting Room",
+    "Library","Laser Printer","Photocopier","Scanner","Teleconferencing facilities","Fab Lab Facility","Test and analysis Labs","Cafeteria"
+    ],
+    "images":[
+      "/leap/ajce1.png",
+      "/leap/ajce2.png",
+      "/leap/ajce3.png",
+      "/leap/ajce4.png",
+      "/leap/ajce5.png",
+      "/leap/ajce6.png",
+      "/leap/ajce7.png",
+      "/leap/ajce8.png"
+
+    ]
+  },
+  {
+    "title": "St. Thomas College of Engineering & Technology",
+
+    "image": "/img/st1.png",
+    "image_main":"/img/st2.png",
+    
+    "id": "p7",
+    "address": "Kozhuvalloor, Chengannur",
+    "poc": "Dr. Vipin Gopan",
+    "email": "vipingopan@stthomascollege.ac.in",
+    "number": "8891710248",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    
+    "facilities": [
+     "Co-working spaces",
+     "Private cabins",
+    "Conference rooms",
+    "Meeting rooms",
+    "Event space",
+    "High-speed internet",
+    "Printing & scanning facilities",
+    " Cafeteria or food services",
+    "Parking facilities",
+    "24/7 Access",
+    "Security & surveillance"
+    ],
+    "images":[
+     "/img/st6.png",
+     "/img/st4.png",
+     "/img/st5.png",
+     "/img/st3.png"
+    ]
+  },
+  {
+    "title": "Berchmans Centre for Innovation & Entrepreneurship",
+
+    "image": "/img/b1.png",
+    "image_main":"/img/b2.png",
+    
+    "id": "p8",
+    "address": "Changanassery, Kerala",
+    "poc": "Dr. Philip Litto Thomas",
+    "email": "philip@sbcollege.ac.in",
+    "number": "9495081157",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum soluta incidunt dignissimos ullam libero optio...",
+    
+    "facilities": [
+     "Modern Co-working Environment",
+     "Meeting Room",
+     "Fabrication Facility",
+     "100-seater AC seminar room",
+     "Academic Collaboration",
+     "Library Access"
+    ],
+    "images":[
+     "/img/bl5.png",
+     "/img/bl4.png",
+     "/img/bl3.png",
+     "/img/bl2.png",
+     "/img/bl1.png"
+
+    ]
+  }
+]
