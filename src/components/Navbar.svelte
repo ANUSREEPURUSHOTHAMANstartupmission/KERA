@@ -2,7 +2,7 @@
     import { onMount } from 'svelte';
      export let menu_open;
      let y = 0;
-    let pageHeight = 1;
+    let pageHeight = 10;
     let dropdownOpen = false; // Dropdown state
     let dropdownOpensm = false; // Dropdown state
   
